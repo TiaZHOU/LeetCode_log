@@ -1,8 +1,5 @@
 /**
-Given an array of integers A, return the largest integer that only occurs once.
-
-    If no integer occurs once, return -1.
-
+ * link:https://leetcode-cn.com/problems/largest-unique-number/
  * @param {number[]} A
  * @return {number}
  */
