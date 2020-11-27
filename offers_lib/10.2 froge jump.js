@@ -1,5 +1,5 @@
 /**
- * link: https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/submissions/
+ * link: https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/
  * @param {number} n
  * @return {number}
  */
