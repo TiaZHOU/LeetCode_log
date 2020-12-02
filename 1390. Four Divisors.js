@@ -4,29 +4,25 @@
  * @return {number}
  */
 var sumFourDivisors = function(nums) {
-    let ans =0;
-    let div = 0;
-    let temp =0;
-    for(let i=0;i< nums.length;i++)
+    let ans = 0;
+    for(let i=0; i< nums.length;i++)
     {
-        div =0;
-        temp = 0;
-        for(let j=1;j<=Math.sqrt(nums[i]);j++)
+        let counter =0, temp =0;
+        for(let j=1; j<= nums[i]; j++)
         {
-            if(nums[i]%j ==0 || nums[i/j !=  j])
+            if(nums[i]%j == 0)
             {
-                temp = temp+ j + nums[i]/j;
-                div += 2;
+                counter++;
+                temp += j;
             }
-            if(div>4)
+            if(counter >4)
             {
-                temp = 0;
                 break;
             }
         }
-        if(div == 4)
+        if(counter == 4)
         {
-            ans=ans +temp;
+            ans += temp;
         }
     }
     return ans;
