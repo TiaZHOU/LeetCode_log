@@ -3,10 +3,8 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-var isPossible = function(nums) {
+const isPossible = function(nums) {
     let max = nums[nums.length - 1];
-    // arr：存储原数组中数字每个数字出现的次数
-    // tail：存储以数字num结尾的且符合题意的连续子序列个数
     let arr = new Array(max + 2).fill(0),
         tail = new Array(max + 2).fill(0);
     for(let num of nums)
@@ -37,3 +35,4 @@ var isPossible = function(nums) {
         arr[num]--;
     }
     return true
+}
