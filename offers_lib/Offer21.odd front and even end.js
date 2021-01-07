@@ -4,25 +4,5 @@
  * @return {number[]}
  */
 var exchange = function(nums) {
-    let head =0;
-    let foot = nums.length-1;
-    let temp;
-
-    while(head != foot && head <  foot)
-    {
-        while(head <  foot &&  nums[head]%2 == 1)
-        {
-            head ++;
-        }
-        while(head <  foot && nums[foot]%2 == 0)
-        {
-            foot--;
-        }
-        temp = nums[head];
-        nums[head] = nums[foot];
-        nums[foot] = temp;
-        head++;
-        foot--;
-    }
-    return nums;
+    return nums.sort((a,b)=>b%2-a%2)
 };
