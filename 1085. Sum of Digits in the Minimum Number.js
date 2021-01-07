@@ -5,7 +5,7 @@
  */
 var sumOfDigits = function(A) {
     let ans = A[0];
-    for(i =0; i< A.length; i++)
+    for(let i =0; i< A.length; i++)
     {
         if(A[i] < ans)
         {
