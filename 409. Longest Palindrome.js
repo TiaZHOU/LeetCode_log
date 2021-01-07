@@ -6,6 +6,7 @@
 var longestPalindrome = function(s) {
     let temp = new Map();
     let ans = 0;
+    //check pairs
     for(let i=0; i< s.length; i++)
     {
         if(temp.has(s.charAt(i)))
@@ -22,6 +23,7 @@ var longestPalindrome = function(s) {
         }
 
     }
+    // check the middle one if the ans size small than string
     if(ans < s.length)
     {
         ans ++;
