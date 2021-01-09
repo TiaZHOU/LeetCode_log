@@ -20,3 +20,7 @@ var numberOfMatches = function(n) {
     }
     return ans;
 };
+
+var numberOfMatches2 = function(n) {
+    return n-1;
+};
