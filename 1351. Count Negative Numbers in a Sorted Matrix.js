@@ -5,17 +5,19 @@
  */
 var countNegatives = function(grid) {
     let ans = 0;
+    let last_index = grid[0].length-1;
     for(let i=0; i<grid.length; i++)
     {
-        if(grid[i][grid[i].length-1] >=0)
+        if(grid[i][last_index] >=0)
         {
             continue;
         }
-        for(let j=grid[i].length-1; j>=0; j--)
+        for(let j=last_index; j>=0; j--)
         {
             if(grid[i][j] < 0)
             {
-                ans ++;
+                ans = ans + grid.length-i;
+                last_index--;
             }
         }
     }
