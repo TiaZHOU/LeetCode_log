@@ -15,3 +15,7 @@ var checkIfExist = function(arr) {
     }
     return false;
 };
+
+var checkIfExist2 = function(arr) {
+    return arr.some((e,i)=> arr.indexOf(e * 2) !== -1 && arr.indexOf(e * 2) !==i )
+};
