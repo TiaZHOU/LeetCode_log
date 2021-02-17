@@ -3,6 +3,18 @@
  * @param {number} n
  * @return {number}
  */
+var cuttingRope2 = function(n) {
+    if(n == 2 || n==3) return n-1;
+    let ans = 1;
+    while(n>4)
+    {
+        n = n-3;
+        ans = ans *3;
+    }
+    return ans*n;
+};
+
+
 var cuttingRope = function(n) {
     if(n == 2) return 1;
     let ans = 1;
