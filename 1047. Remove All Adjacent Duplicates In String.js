@@ -6,19 +6,17 @@
 var removeDuplicates = function(S) {
     let index =0;
     let temp = [];
-    for (let i=0; i<S.length; i++)
+    temp[0] =  S.charAt(0);
+    for (let i=1; i<S.length; i++)
     {
-        temp[i] = S.charAt(i);
-    }
-    for (let i=0; i<S.length; i++)
-    {
-        if(temp[index] == temp[index+1])
+        if(S.charAt(i) == temp[index])
         {
-            temp.splice(index,2);
+            temp.splice(index,1);
             index--;
         }
         else
         {
+            temp.push(S.charAt(i));
             index++;
         }
     }
