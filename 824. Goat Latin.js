@@ -5,20 +5,18 @@
  */
 var toGoatLatin = function(S) {
     let temp = S.split(' ');
+    let end = "";
     for(let i=0; i< temp.length; i++)
     {
         let head = temp[i].charAt(0);
+        end = end + "a";
         if(head == 'a'||head == 'e'||head == 'i'||head == 'o'||head == 'u'||head == 'A'||head == 'E'||head == 'I'||head == 'O'||head == 'U')
         {
-            temp[i] = temp[i] +"ma";
+            temp[i] = temp[i] +"ma" + end;
         }
         else
         {
-            temp[i] =temp[i].substring(1) + head + "ma";
-        }
-        for(let j=0; j<= i; j++)
-        {
-            temp[i] = temp[i] + "a";
+            temp[i] =temp[i].substring(1) + head + "ma" + end;
         }
     }
     let ans = temp.join(' ');
