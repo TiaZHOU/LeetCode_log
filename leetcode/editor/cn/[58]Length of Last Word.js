@@ -47,5 +47,21 @@
  */
 var lengthOfLastWord = function(s) {
 
+    let ans =0;
+    for(let i = s.length-1; i>=0; i--)
+    {
+        if(s[i] === ' ')
+        {
+            if(ans !==0)
+            {
+                return ans;
+            }
+        }
+        else
+        {
+            ans++;
+        }
+    }
+    return  ans;
 };
 //leetcode submit region end(Prohibit modification and deletion)
