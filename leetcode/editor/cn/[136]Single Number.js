@@ -34,15 +34,12 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    if(nums.length === 1) return nums[0];
+    let ans  =0;
     for(let i=0; i<nums.length;i++)
     {
-        if(nums.indexOf(nums[i]) === nums.lastIndexOf(nums[i]))
-        {
-            return nums[i];
-        }
+        ans ^= nums[i];
     }
-    return 0;
+    return ans;
 
 };
 //leetcode submit region end(Prohibit modification and deletion)
