@@ -79,11 +79,56 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[193]Valid Phone Numbers.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[193]Valid Phone Numbers.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[193]Valid Phone Numbers.js" />
+              <option name="questionId" value="193" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[196]Delete Duplicate Emails.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[196]Delete Duplicate Emails.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[196]Delete Duplicate Emails.js" />
+              <option name="questionId" value="196" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[197]Rising Temperature.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[197]Rising Temperature.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[197]Rising Temperature.js" />
+              <option name="questionId" value="197" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1]Two Sum.js">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1]Two Sum.js" />
               <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[202]Happy Number.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[202]Happy Number.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[202]Happy Number.js" />
+              <option name="questionId" value="202" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[205]Isomorphic Strings.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[205]Isomorphic Strings.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[205]Isomorphic Strings.js" />
+              <option name="questionId" value="205" />
             </LeetcodeEditor>
           </value>
         </entry>
