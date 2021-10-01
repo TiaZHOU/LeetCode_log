@@ -132,11 +132,83 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[206]Reverse Linked List.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[206]Reverse Linked List.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[206]Reverse Linked List.js" />
+              <option name="questionId" value="206" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[217]Contains Duplicate.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[217]Contains Duplicate.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[217]Contains Duplicate.js" />
+              <option name="questionId" value="217" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[219]Contains Duplicate II.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[219]Contains Duplicate II.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[219]Contains Duplicate II.js" />
+              <option name="questionId" value="219" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[21]Merge Two Sorted Lists.js">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[21]Merge Two Sorted Lists.js" />
               <option name="questionId" value="21" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[225]Implement Stack using Queues.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[225]Implement Stack using Queues.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[225]Implement Stack using Queues.js" />
+              <option name="questionId" value="225" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[228]Summary Ranges.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[228]Summary Ranges.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[228]Summary Ranges.js" />
+              <option name="questionId" value="228" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[231]Power of Two.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[231]Power of Two.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[231]Power of Two.js" />
+              <option name="questionId" value="231" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[232]Implement Queue using Stacks.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[232]Implement Queue using Stacks.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[232]Implement Queue using Stacks.js" />
+              <option name="questionId" value="232" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[242]Valid Anagram.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[242]Valid Anagram.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[242]Valid Anagram.js" />
+              <option name="questionId" value="242" />
             </LeetcodeEditor>
           </value>
         </entry>
