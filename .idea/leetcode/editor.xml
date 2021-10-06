@@ -223,6 +223,16 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2]Add Two Numbers.js">
           <value>
             <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2]Add Two Numbers.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2]Add Two Numbers.js" />
+              <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2]两数相加.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2]Add Two Numbers.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2]Add Two Numbers.js" />
               <option name="questionId" value="2" />
             </LeetcodeEditor>
@@ -281,6 +291,7 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[4]Median of Two Sorted Arrays.js">
           <value>
             <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[4]Median of Two Sorted Arrays.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[4]Median of Two Sorted Arrays.js" />
               <option name="questionId" value="4" />
             </LeetcodeEditor>
@@ -342,18 +353,19 @@
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="D:/uniapps/leetcode_temp/leetcode/editor/cn/[2]两数相加.js">
+        <entry key="$PROJECT_DIR$/../../uniapps/leetcode_temp/leetcode/editor/cn/[2]两数相加.js">
           <value>
             <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2]Add Two Numbers.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2]Add Two Numbers.js" />
               <option name="questionId" value="2" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="D:/uniapps/leetcode_temp/leetcode/editor/cn/[455]分发饼干.js">
+        <entry key="$PROJECT_DIR$/../../uniapps/leetcode_temp/leetcode/editor/cn/[455]分发饼干.js">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="D:/uniapps/leetcode_temp/leetcode/editor/cn/[455]分发饼干.js" />
+              <option name="path" value="$PROJECT_DIR$/../../uniapps/leetcode_temp/leetcode/editor/cn/[455]分发饼干.js" />
               <option name="questionId" value="455" />
             </LeetcodeEditor>
           </value>
