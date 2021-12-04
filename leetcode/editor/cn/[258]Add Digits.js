@@ -44,20 +44,20 @@ var addDigits = function(num) {
     }
     else
     {
-        while(num > 9)
+        let ans= 0;
+        let len = num.toString().length;
+        for(let i=0; i<len; i++)
         {
-            let temp=0;
-            let len = num.toString().length;
-            for(let i=0; i<len; i++)
+            ans = ans + num%10;
+            num = (num-num%10)/10;
+            if(ans>9)
             {
-                temp = temp + num%10;
-                num = (num-(num%10))/10;
-                //console.log(temp+"  "+ num);
+                ans = ans%10 + 1;
             }
-            num = temp;
         }
-        return num;
+        return ans;
     }
+
 };
 //leetcode submit region end(Prohibit modification and deletion)
 console.log(addDigits(38));
