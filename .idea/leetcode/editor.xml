@@ -43,6 +43,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[148]Sort List.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[148]Sort List.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[148]Sort List.js" />
+              <option name="questionId" value="148" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[163]Missing Ranges.js">
           <value>
             <LeetcodeEditor>
@@ -67,6 +76,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[168]Excel Sheet Column Title.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[168]Excel Sheet Column Title.js" />
               <option name="questionId" value="168" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1710]Maximum Units on a Truck.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1710]Maximum Units on a Truck.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1710]Maximum Units on a Truck.js" />
+              <option name="questionId" value="1829" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -141,6 +159,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2072]The Winner University.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2072]The Winner University.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2072]The Winner University.js" />
+              <option name="questionId" value="2214" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2073]Time Needed to Buy Tickets.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2073]Time Needed to Buy Tickets.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2073]Time Needed to Buy Tickets.js" />
+              <option name="questionId" value="2195" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[217]Contains Duplicate.js">
           <value>
             <LeetcodeEditor>
@@ -212,6 +248,33 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[243]Shortest Word Distance.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[243]Shortest Word Distance.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[243]Shortest Word Distance.js" />
+              <option name="questionId" value="243" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[246]Strobogrammatic Number.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[246]Strobogrammatic Number.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[246]Strobogrammatic Number.js" />
+              <option name="questionId" value="246" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[252]Meeting Rooms.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[252]Meeting Rooms.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[252]Meeting Rooms.js" />
+              <option name="questionId" value="252" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[28]Implement strStr().js">
           <value>
             <LeetcodeEditor>
@@ -253,6 +316,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[342]Power of Four.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[342]Power of Four.js" />
               <option name="questionId" value="342" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[345]Reverse Vowels of a String.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[345]Reverse Vowels of a String.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[345]Reverse Vowels of a String.js" />
+              <option name="questionId" value="345" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -353,7 +425,7 @@
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../uniapps/leetcode_temp/leetcode/editor/cn/[2]两数相加.js">
+        <entry key="$USER_HOME$/uniapps/leetcode_temp/leetcode/editor/cn/[2]两数相加.js">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2]Add Two Numbers.md" />
@@ -362,10 +434,10 @@
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../uniapps/leetcode_temp/leetcode/editor/cn/[455]分发饼干.js">
+        <entry key="$USER_HOME$/uniapps/leetcode_temp/leetcode/editor/cn/[455]分发饼干.js">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/../../uniapps/leetcode_temp/leetcode/editor/cn/[455]分发饼干.js" />
+              <option name="path" value="$USER_HOME$/uniapps/leetcode_temp/leetcode/editor/cn/[455]分发饼干.js" />
               <option name="questionId" value="455" />
             </LeetcodeEditor>
           </value>
