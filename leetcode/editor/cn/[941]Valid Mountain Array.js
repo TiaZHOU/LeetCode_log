@@ -47,18 +47,18 @@ var validMountainArray = function(arr) {
     }
     for(let i=1 ; i< arr.length ; i++)
     {
-        if(arr[i-1] == arr[i])
+        if(arr[i-1] === arr[i])
         {
             return false;
         }
         if(arr[i-1] > arr[i])
         {
-            if(status == 0)
+            if(status === 0)
             {
                 status = 1;
             }
         }
-        if(arr[i-1] < arr[i] && status == 1)
+        if(arr[i-1] < arr[i] && status === 1)
         {
             return false;
         }

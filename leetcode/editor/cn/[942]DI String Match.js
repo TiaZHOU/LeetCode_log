@@ -39,21 +39,9 @@ var diStringMatch = function(s) {
     let min = 0;
     let max = s.length;
     let ans = [];
-    if(s.charAt(0) == "D")
+    for(let i=0; i<=s.length; i++)
     {
-        ans[0] = max;
-        max--;
-    }
-    else
-    {
-        ans[0] = min;
-        min ++;
-    }
-    for(let i=1; i<=s.length; i++)
-    {
-        if(s.charAt(i-1) == "I")
-        {
-            if(s.charAt(i) == "I")//ii
+            if(s.charAt(i) === "I")//ii
             {
                 ans[i] = min;
                 min ++;
@@ -63,22 +51,6 @@ var diStringMatch = function(s) {
                 ans[i] = max;
                 max --;
             }
-
-        }
-        else//d
-        {
-            if(s.charAt(i) == "I")//di
-            {
-                ans[i] = min;
-                min ++;
-            }
-            else//dd
-            {
-                ans[i] = max;
-                max --;
-            }
-
-        }
     }
     return ans;
 
