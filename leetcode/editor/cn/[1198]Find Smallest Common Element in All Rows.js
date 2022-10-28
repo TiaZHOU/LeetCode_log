@@ -38,25 +38,23 @@
  * @return {number}
  */
 var smallestCommonElement = function(mat) {
-    let ansTemp = mat[mat.length-1];
+    let ans =[];
     for(let i =mat.length-1; i>=0; i--)
     {
         ans =[];
-        for(let j=0; j<ansTemp.length; j++)
+        for(let j=0; j<mat[mat.length-1].length; j++)
         {
-            if(mat[i].includes(ansTemp[j]))
+            if(mat[i].includes(mat[mat.length-1][j]))
             {
-                ans.push(ansTemp[j]);
+                ans.push(mat[mat.length-1][j]);
             }
         }
-        ansTemp = ans;
+        mat[mat.length-1] = ans;
     }
-
     if(ans.length>=1)
     {
         return ans[0];
     }
     return -1;
-
 };
 //leetcode submit region end(Prohibit modification and deletion)
