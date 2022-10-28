@@ -75,11 +75,11 @@ var wordsTyping = function(sentence, rows, cols) {
     for (let i = 0; i < rows; i += 1)
     {
         index += cols;
-        if (str[index % len] == " ")
+        if (str[index % len] === " ")
         {
             index ++;
         } else {
-            while (index && str[(index-1) % len] != " ")
+            while (index && str[(index-1) % len] !== " ")
             {
                 index --;
             }
